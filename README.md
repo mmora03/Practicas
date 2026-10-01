@@ -1,1 +1,1 @@
-Este repositorio contiene las prácticas de laboratorio hechos por mí, JOsé Miguel Mora Tenorio
+Este repositorio contiene las prácticas de laboratorio hechos por mí, José Miguel Mora Tenorio
